@@ -1,0 +1,6 @@
+com\SRIS\GenericsLibrary\Xls_AllMethods.class
+com\SRIS\GenericsLibrary\BasePage.class
+com\SRIS\ObjectRepository\SRIS_TestData.class
+com\SRIS\GenericsLibrary\BaseTest.class
+com\SRIS\ObjectRepository\SRIS_MasterModule.class
+com\SRIS\GenericsLibrary\AutoConstant.class

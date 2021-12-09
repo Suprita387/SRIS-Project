@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34113" started-at="2021-12-09T11:58:00 IST" finished-at="2021-12-09T11:58:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34113" started-at="2021-12-09T11:58:00 IST" finished-at="2021-12-09T11:58:34 IST">
+      <class name="com.SRIS.Ethnicity.Duplicate">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="openBrowser" is-config="true" duration-ms="9810" started-at="2021-12-09T11:58:00 IST" finished-at="2021-12-09T11:58:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginPageOpen()[pri:0, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="loginPageOpen" duration-ms="6737" started-at="2021-12-09T11:58:10 IST" finished-at="2021-12-09T11:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageOpen -->
+        <test-method status="PASS" signature="Ethnicity_Module()[pri:1, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="Ethnicity_Module" duration-ms="2269" started-at="2021-12-09T11:58:17 IST" finished-at="2021-12-09T11:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ethnicity_Module -->
+        <test-method status="PASS" signature="CheckDuplicateAllowForEthnicityDescription()[pri:2, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="CheckDuplicateAllowForEthnicityDescription" duration-ms="7127" started-at="2021-12-09T11:58:19 IST" finished-at="2021-12-09T11:58:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDuplicateAllowForEthnicityDescription -->
+        <test-method status="PASS" signature="CheckDuplicateNotAllowForEthnicity()[pri:3, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="CheckDuplicateNotAllowForEthnicity" duration-ms="7206" started-at="2021-12-09T11:58:26 IST" finished-at="2021-12-09T11:58:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDuplicateNotAllowForEthnicity -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SRIS.Ethnicity.Duplicate@32709393]" name="closeBrowser" is-config="true" duration-ms="662" started-at="2021-12-09T11:58:34 IST" finished-at="2021-12-09T11:58:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SRIS.Ethnicity.Duplicate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
